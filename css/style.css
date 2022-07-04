@@ -1,5 +1,13 @@
 /* Estilos Generales */
 
+div{
+    color: red;
+}
+
+div:hover{
+    color: black;
+}
+
 .padre {
     background-color: lightblue;
 }
